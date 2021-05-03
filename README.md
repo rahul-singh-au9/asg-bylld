@@ -1,3 +1,19 @@
+<img src = "https://i.ibb.co/DKMZryD/Screenshot-124.png">
+
+<img src = "https://i.ibb.co/Kj5Pfhp/Screenshot-125.png">
+
+<img src = "https://i.ibb.co/k11xP2R/Screenshot-126.png">
+
+In the project directory, you can run:
+### npm i (to install all the dependencies)
+
+### `cd bylld` => `npm start` => `http://localhost:3000`
+
+### to start json server
+## json-server --watch db.json --port 8900
+
+
+
 # Byldd Frontend Coding Challenge
 
 Welcome to the Byldd frontend coding challenge! Please read the following instructions carefully.
